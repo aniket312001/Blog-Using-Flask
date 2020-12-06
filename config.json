@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "local_server" : "True",
+        "local_uri" : "mysql://root:@localhost/codingthunderzz" ,
+        "prod_uri" : "mysql://root:@localhost/codingthunderzz ",
+        "fb_url" : "https://facebook.com/codingthunderzz",
+        "tw_url" : "https://facebook.com/codingthunderzz",
+        "git_url" : "https://facebook.com/codingthunderzz",
+        "blog_name" : "CodingThunderzz",
+        "blog_sub_heading" : "A Blog for python Developer",
+        "gmail_user": "xyz@gmail.com",
+        "gmail_password" : "#########",
+        "about_text": "Hi my name is aniket and I create programming tutorials and I am a good boy",
+        "no_of_posts" : 3,
+        "login_image" : "bootstrap-solid.svg",
+        "admin_user":"",  
+        "admin_password": "",
+        "upload_location" : "C:\\Users\\User\\Desktop\\flask\\static"
+    }
+
+}
